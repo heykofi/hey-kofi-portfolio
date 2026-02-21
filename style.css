@@ -690,3 +690,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 } 
+
+.social-link:hover{
+  text-decoratoion:none;
+}
